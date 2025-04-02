@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Mac system files (ignore even on Windows, they can appear if you're collaborating with someone on macOS)
+.DS_Store
+
+# React build directory (created when you run npm run build)
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+
